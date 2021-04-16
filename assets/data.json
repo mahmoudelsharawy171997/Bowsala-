@@ -1,0 +1,548 @@
+﻿{
+    "Shipsy Destination": [
+        {
+            "CITY NAME": "Abha",
+            "CODE": "ABH"
+        },
+        {
+            "CITY NAME": "Abo Ajram",
+            "CODE": "AJRM"
+        },
+        {
+            "CITY NAME": "AbuAreesh",
+            "CODE": "ABUARSH"
+        },
+        {
+            "CITY NAME": "AdDilam",
+            "CODE": "DILM"
+        },
+        {
+            "CITY NAME": "AdDiriyah",
+            "CODE": "DRYA"
+        },
+        {
+            "CITY NAME": "Afif",
+            "CODE": "Afif"
+        },
+        {
+            "CITY NAME": "Ahad AlMasarihah",
+            "CODE": "AHDMASAR"
+        },
+        {
+            "CITY NAME": "Ahad Rafidah",
+            "CODE": "AHDRFD"
+        },
+        {
+            "CITY NAME": "Ain Dar",
+            "CODE": "ANDR"
+        },
+        {
+            "CITY NAME": "Al Dulaymiyah",
+            "CODE": "DLMY"
+        },
+        {
+            "CITY NAME": "Al Hariq",
+            "CODE": "HARQ"
+        },
+        {
+            "CITY NAME": "Al Hulwah",
+            "CODE": "HLWH"
+        },
+        {
+            "CITY NAME": "Al Jafr",
+            "CODE": "JFR"
+        },
+        {
+            "CITY NAME": "Al Lith",
+            "CODE": "LTH"
+        },
+        {
+            "CITY NAME": "Al Tuwal",
+            "CODE": "TUW"
+        },
+        {
+            "CITY NAME": "AlAflaj",
+            "CODE": "AFLAJ"
+        },
+        {
+            "CITY NAME": "AlAwamiyah",
+            "CODE": "AWMY"
+        },
+        {
+            "CITY NAME": "AlBadai",
+            "CODE": "BAD"
+        },
+        {
+            "CITY NAME": "Al-Badie Al-Shamali ",
+            "CODE": "BADSH"
+        },
+        {
+            "CITY NAME": "AlBaha",
+            "CODE": "ABT"
+        },
+        {
+            "CITY NAME": "AlBukayriyah",
+            "CODE": "BAK"
+        },
+        {
+            "CITY NAME": "Alhawiyah",
+            "CODE": "HWYH"
+        },
+        {
+            "CITY NAME": "AlJumoom",
+            "CODE": "JOMM"
+        },
+        {
+            "CITY NAME": "AlKhabra",
+            "CODE": "KHAB"
+        },
+        {
+            "CITY NAME": "AlKhafji",
+            "CODE": "KFJ"
+        },
+        {
+            "CITY NAME": "AlKharj",
+            "CODE": "KRG"
+        },
+        {
+            "CITY NAME": "AlKhurmah",
+            "CODE": "KHRMA"
+        },
+        {
+            "CITY NAME": "AlMajmaah",
+            "CODE": "MAJMAH"
+        },
+        {
+            "CITY NAME": "AlMakhwah",
+            "CODE": "MKHWA"
+        },
+        {
+            "CITY NAME": "AlMidhnab",
+            "CODE": "MUZ"
+        },
+        {
+            "CITY NAME": "AlMubarraz",
+            "CODE": "MUBRZ"
+        },
+        {
+            "CITY NAME": "AlMuzahimiyah",
+            "CODE": "MZH"
+        },
+        {
+            "CITY NAME": "AlQatif",
+            "CODE": "QTF"
+        },
+        {
+            "CITY NAME": "AlQudaih",
+            "CODE": "QDEH"
+        },
+        {
+            "CITY NAME": "AlQunfudhah",
+            "CODE": "QNFD"
+        },
+        {
+            "CITY NAME": "AlQurayyat",
+            "CODE": "URY"
+        },
+        {
+            "CITY NAME": "AlQuwayiyah",
+            "CODE": "QWYA"
+        },
+        {
+            "CITY NAME": "AlQuz",
+            "CODE": "QUZ"
+        },
+        {
+            "CITY NAME": "AlUla",
+            "CODE": "OLA"
+        },
+        {
+            "CITY NAME": "AlUyun",
+            "CODE": "UYON"
+        },
+        {
+            "CITY NAME": "AlWajh",
+            "CODE": "WJH"
+        },
+        {
+            "CITY NAME": "An Nabhaniyah",
+            "CODE": "NBHN"
+        },
+        {
+            "CITY NAME": "Anak",
+            "CODE": "ANK"
+        },
+        {
+            "CITY NAME": "Ar Ruwaidhah",
+            "CODE": "RWDH"
+        },
+        {
+            "CITY NAME": "Arar",
+            "CODE": "RAE"
+        },
+        {
+            "CITY NAME": "As Sulayyil",
+            "CODE": "SULIL"
+        },
+        {
+            "CITY NAME": "Athuqbah",
+            "CODE": "THQB"
+        },
+        {
+            "CITY NAME": "Badr",
+            "CODE": "BDR"
+        },
+        {
+            "CITY NAME": "Bahrah",
+            "CODE": "BHR"
+        },
+        {
+            "CITY NAME": "Bahrain Causeway",
+            "CODE": "BHRCW"
+        },
+        {
+            "CITY NAME": "Baljurashi",
+            "CODE": "BLJRSH"
+        },
+        {
+            "CITY NAME": "Bariq",
+            "CODE": "BRQ"
+        },
+        {
+            "CITY NAME": "Batha",
+            "CODE": "BTHA"
+        },
+        {
+            "CITY NAME": "Bish",
+            "CODE": "BSH"
+        },
+        {
+            "CITY NAME": "Bisha",
+            "CODE": "BHH"
+        },
+        {
+            "CITY NAME": "Buqayq",
+            "CODE": "BQQ"
+        },
+        {
+            "CITY NAME": "Buraidah",
+            "CODE": "BRD"
+        },
+        {
+            "CITY NAME": "Damad",
+            "CODE": "DMD"
+        },
+        {
+            "CITY NAME": "Dammam",
+            "CODE": "DMM"
+        },
+        {
+            "CITY NAME": "Darb/abha",
+            "CODE": "DRB"
+        },
+        {
+            "CITY NAME": "Dawadmi",
+            "CODE": "DWD"
+        },
+        {
+            "CITY NAME": "Dhahran",
+            "CODE": "DHRN"
+        },
+        {
+            "CITY NAME": "Dhahran Al Janub",
+            "CODE": "DHJAN"
+        },
+        {
+            "CITY NAME": "Dhurma",
+            "CODE": "DRM"
+        },
+        {
+            "CITY NAME": "Duba",
+            "CODE": "DBA"
+        },
+        {
+            "CITY NAME": "Dukhnah",
+            "CODE": "DKHN"
+        },
+        {
+            "CITY NAME": "Dumat alJandal",
+            "CODE": "JNDL"
+        },
+        {
+            "CITY NAME": "Ghat",
+            "CODE": "GHT"
+        },
+        {
+            "CITY NAME": "hafar alBatin",
+            "CODE": "HFR"
+        },
+        {
+            "CITY NAME": "hail",
+            "CODE": "HAS"
+        },
+        {
+            "CITY NAME": "Hali AlQunfudhah",
+            "CODE": "HALIQF"
+        },
+        {
+            "CITY NAME": "haql",
+            "CODE": "HQL"
+        },
+        {
+            "CITY NAME": "Hassa",
+            "CODE": "HOF"
+        },
+        {
+            "CITY NAME": "Hawtat Sudayr",
+            "CODE": "HWSD"
+        },
+        {
+            "CITY NAME": "Hotat Bani Tamim",
+            "CODE": "HOBT"
+        },
+        {
+            "CITY NAME": "Huraymila ",
+            "CODE": "HRMLA"
+        },
+        {
+            "CITY NAME": "Jash",
+            "CODE": "JSH"
+        },
+        {
+            "CITY NAME": "Jeddah",
+            "CODE": "JED"
+        },
+        {
+            "CITY NAME": "Jizan",
+            "CODE": "GIZ"
+        },
+        {
+            "CITY NAME": "Jubail",
+            "CODE": "JBL"
+        },
+        {
+            "CITY NAME": "Khamis Mushait",
+            "CODE": "KMS2"
+        },
+        {
+            "CITY NAME": "Khobar",
+            "CODE": "KHBR"
+        },
+        {
+            "CITY NAME": "Layla",
+            "CODE": "LYLA"
+        },
+        {
+            "CITY NAME": "Mahail",
+            "CODE": "MHL"
+        },
+        {
+            "CITY NAME": "Majardah",
+            "CODE": "MJRD"
+        },
+        {
+            "CITY NAME": "malham",
+            "CODE": "MLHM"
+        },
+        {
+            "CITY NAME": "Mecca",
+            "CODE": "MKH"
+        },
+        {
+            "CITY NAME": "Medina",
+            "CODE": "MED2"
+        },
+        {
+            "CITY NAME": "Nairiyah",
+            "CODE": "NYRH"
+        },
+        {
+            "CITY NAME": "Najran",
+            "CODE": "EAM"
+        },
+        {
+            "CITY NAME": "Nakeea",
+            "CODE": "NKE"
+        },
+        {
+            "CITY NAME": "Namas",
+            "CODE": "NMS"
+        },
+        {
+            "CITY NAME": "Qaisumah",
+            "CODE": "AQI"
+        },
+        {
+            "CITY NAME": "Qarya Al Uliya",
+            "CODE": "QRYAUL"
+        },
+        {
+            "CITY NAME": "Rabigh",
+            "CODE": "RBGH"
+        },
+        {
+            "CITY NAME": "Rafha",
+            "CODE": "RAH"
+        },
+        {
+            "CITY NAME": "Ranyah",
+            "CODE": "RNYA"
+        },
+        {
+            "CITY NAME": "Ras Tannurah",
+            "CODE": "RSTNRH"
+        },
+        {
+            "CITY NAME": "Rass",
+            "CODE": "RAS"
+        },
+        {
+            "CITY NAME": "Rijal Alma",
+            "CODE": "RJMA"
+        },
+        {
+            "CITY NAME": "Riyadh",
+            "CODE": "RUH"
+        },
+        {
+            "CITY NAME": "Riyadh AlKhabra",
+            "CODE": "RYDKHO"
+        },
+        {
+            "CITY NAME": "Rumah",
+            "CODE": "RMH"
+        },
+        {
+            "CITY NAME": "Sabt AlUlayah",
+            "CODE": "SBTULY"
+        },
+        {
+            "CITY NAME": "Sabya",
+            "CODE": "SABY"
+        },
+        {
+            "CITY NAME": "Safwa",
+            "CODE": "SFWA"
+        },
+        {
+            "CITY NAME": "Saihat",
+            "CODE": "SEHT"
+        },
+        {
+            "CITY NAME": "Sajir",
+            "CODE": "SJR"
+        },
+        {
+            "CITY NAME": "Sakakah",
+            "CODE": "AJF"
+        },
+        {
+            "CITY NAME": "Salbukh",
+            "CODE": "SLBKH"
+        },
+        {
+            "CITY NAME": "Salwa",
+            "CODE": "SLWA"
+        },
+        {
+            "CITY NAME": "Samtah",
+            "CODE": "SAMT"
+        },
+        {
+            "CITY NAME": "Sarat Abideh",
+            "CODE": "SRTABD"
+        },
+        {
+            "CITY NAME": "Shaqraa",
+            "CODE": "SHQR"
+        },
+        {
+            "CITY NAME": "Sharurah",
+            "CODE": "SHW"
+        },
+        {
+            "CITY NAME": "tabarjal",
+            "CODE": "TBRJ"
+        },
+        {
+            "CITY NAME": "Tabuk",
+            "CODE": "TUU"
+        },
+        {
+            "CITY NAME": "Taif",
+            "CODE": "TIF"
+        },
+        {
+            "CITY NAME": "Taraf",
+            "CODE": "TRF"
+        },
+        {
+            "CITY NAME": "Tarut",
+            "CODE": "TRT"
+        },
+        {
+            "CITY NAME": "Tathlith",
+            "CODE": "TATHL"
+        },
+        {
+            "CITY NAME": "Tayma",
+            "CODE": "TYM"
+        },
+        {
+            "CITY NAME": "Thwal",
+            "CODE": "THL"
+        },
+        {
+            "CITY NAME": "Turabah",
+            "CODE": "TRB"
+        },
+        {
+            "CITY NAME": "Turaif",
+            "CODE": "TUI"
+        },
+        {
+            "CITY NAME": "Udhayliyah",
+            "CODE": "UDLYA"
+        },
+        {
+            "CITY NAME": "Ummluj",
+            "CODE": "UMLJ"
+        },
+        {
+            "CITY NAME": "Unaizah",
+            "CODE": "ONEZ"
+        },
+        {
+            "CITY NAME": "Uqlat As Suqur",
+            "CODE": "UQSR"
+        },
+        {
+            "CITY NAME": "Uthmaniyah",
+            "CODE": "UTHM"
+        },
+        {
+            "CITY NAME": "Uyun al jawa",
+            "CODE": "UJWA"
+        },
+        {
+            "CITY NAME": "Wadi adDawasir",
+            "CODE": "WAE"
+        },
+        {
+            "CITY NAME": "Wadi Bin Hashbal",
+            "CODE": "WDBH"
+        },
+        {
+            "CITY NAME": "Yanbu",
+            "CODE": "YNB"
+        },
+        {
+            "CITY NAME": "zalom",
+            "CODE": "ZLM"
+        },
+        {
+            "CITY NAME": "Zulfi",
+            "CODE": "ZLF"
+        }
+    ]
+}
